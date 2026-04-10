@@ -7,7 +7,7 @@ export default function App() {
   const [results, setResults] = useState(null)
 
   // API Backend Replit
-  const apiUrl = 'https://shopee-scraper--yusufbahrudin97.replit.app'
+  const apiUrl = 'https://shopee-scraperp-backend--yusufbahrudin97.replit.app'
 
   async function handleSearch(e) {
     e.preventDefault()
